@@ -1,5 +1,5 @@
 # openAIScripts
-my openAI generate scripts
+my openAI generated scripts
 
 
 #how to call ``renameDrLiptonFiles.sh``:
